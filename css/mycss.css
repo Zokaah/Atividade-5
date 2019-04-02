@@ -1,0 +1,125 @@
+nav{
+    padding: 1%;;
+}
+
+
+
+header{
+    margin-left: 5%;
+    padding-top: 5%;
+}
+
+.image{
+    height: auto;
+    width: 1920px;
+    border-radius:1%;
+  
+    margin-left: 3%;
+   
+}
+.imgtop{
+    height: 300px;
+    width: 400px;
+    margin-top: 0%;
+}
+.imgtop1{
+    height: 150px;
+    width: 400px;
+    margin-top: 1px;
+}
+.imggrande{
+    height: 100;
+    width: 100;
+    margin-right: 10px
+     
+}
+.image1{
+ 
+ width: 1780px;
+}
+.menu1{
+    margin-left: 80px;
+    font-size: 2em;
+    
+}
+
+a:visited{
+    color:#999999;
+}
+a:link{
+    color:#666666;
+}
+
+
+.texto{
+    padding: 10%;
+    font-family: sans-serif;
+    font-size: 1.5em;
+    color: #666666;
+}
+.video{
+    margin-left: 15%;
+     margin-bottom: 10%;
+     
+}
+.jumbotron{
+    background-color: #1a1a1a;
+    
+    padding: 2%;
+    margin-bottom: 1px;
+}
+navbar-inverse{
+    border-radius: 0px;
+}
+#rodape{
+    height: 450px;
+     padding: 15%;
+
+    text-align: center;
+}
+.nome{
+    color:#ffffff;
+    font-size: 3em;
+    font-family: sans-serif;
+}
+nome1{
+    padding: 15%;
+    margin-left: 390px;
+}
+.imglogo{
+    width:100px;
+    height: 200px;
+    
+}
+
+a[href="#top"]{
+    padding:10px;
+    position:fixed;
+    top: 90%;
+    right:40px;
+    display:none;
+    font-size: 30px;
+}
+a[href="#top"]:hover{
+    text-decoration:none;
+}
+.imgitem{
+    height: 100px;
+    width: 100px;
+}
+
+#cadastro{
+    padding: 10%;
+    font-size: 2em;
+   background-image: url(http://clipart-library.com/image_gallery/n1656647.jpg);
+   color: #ffffff;
+}
+.error{
+    color: #ff0033;
+    font-size:1em;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+      margin-top: 10px;
+  }
